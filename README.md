@@ -28,7 +28,8 @@ After extraction and transformation of data from the Excel file, the following e
 5. Contacts DataFrame
 We used Python dictionary methods as one way to extract and transform the data.
 Below ia an extract of the DataFrame.
-![alt text](image-3.png)
+![image](https://github.com/user-attachments/assets/5b8dcbac-475e-4dd3-87c2-3ddddb8c7e9f)
+
 
 We also used regular expressions(Regex) as an alternative method for the ETL.
 Below is a sample extract of the DataFrame
