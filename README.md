@@ -22,7 +22,8 @@ This DataFrame is created by the extraction and transformation of data from the 
 
 4. Campaign DataFrame
 After extraction and transformation of data from the Excel file, the following extract shows the resulting DataFrame.
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/56d000b9-2a44-4881-a0c1-48aa8b62da9c)
+
 
 5. Contacts DataFrame
 We used Python dictionary methods as one way to extract and transform the data.
