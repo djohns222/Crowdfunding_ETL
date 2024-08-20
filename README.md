@@ -14,16 +14,17 @@ Creation of Category and Subcategory DataFrames
 It is created by the extraction and transformation of data from an Excel file (crowdfunding.xlsx).
 Below is an image extract from the DataFrame
 ![alt text](image.png)
+![image](https://github.com/user-attachments/assets/0f3c07b7-6a48-4ce3-91c4-30abc1406c16)
 
-2. Subcategory DataFrame
+3. Subcategory DataFrame
 This DataFrame is created by the extraction and transformation of data from the Excel file. Below is an extract of the resulting DataFrame.
 ![alt text](image-1.png)
 
-3. Campaign DataFrame
+4. Campaign DataFrame
 After extraction and transformation of data from the Excel file, the following extract shows the resulting DataFrame.
 ![alt text](image-2.png)
 
-4. Contacts DataFrame
+5. Contacts DataFrame
 We used Python dictionary methods as one way to extract and transform the data.
 Below ia an extract of the DataFrame.
 ![alt text](image-3.png)
