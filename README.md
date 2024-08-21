@@ -19,15 +19,17 @@ Below is an image extract from the DataFrame
 
 3. Subcategory DataFrame
 This DataFrame is created by the extraction and transformation of data from the Excel file. Below is an extract of the resulting DataFrame.
-![image](https://github.com/user-attachments/assets/ddf75a63-48bf-4f62-ab70-710573ccad46)
+
+![image](https://github.com/user-attachments/assets/980fda8f-35b8-4136-bccf-0a19b6bb440a)
 
 
-4. Campaign DataFrame
+
+5. Campaign DataFrame
 After extraction and transformation of data from the Excel file, the following extract shows the resulting DataFrame.
 ![image](https://github.com/user-attachments/assets/56d000b9-2a44-4881-a0c1-48aa8b62da9c)
 
 
-5. Contacts DataFrame
+6. Contacts DataFrame
 We used Python dictionary methods as one way to extract and transform the data.
 Below ia an extract of the DataFrame.
 
