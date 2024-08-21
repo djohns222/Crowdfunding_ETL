@@ -33,7 +33,8 @@ Below ia an extract of the DataFrame.
 
 We also used regular expressions(Regex) as an alternative method for the ETL.
 Below is a sample extract of the DataFrame
-![alt text](image-4.png) 
+![image](https://github.com/user-attachments/assets/05b496bf-cc54-4e9b-a270-6c849ff297ae)
+
 
 Creation of the Crowdfunding Database
 We used QuickDBD to design an entity relationship diagram(ERD)
