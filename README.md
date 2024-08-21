@@ -46,19 +46,24 @@ We used QuickDBD to design an entity relationship diagram(ERD) referencing each 
 
 
 Project 2 Discussion Questions
-
 1) What are the challenges associated with ETL?
+   
 -DATA INTEGRATION
 Integrating data from diverse sources can bring about difficulties to the ETL process. These include importing CSV files, leveraging APIs, and extracting information from web services into a desired format.
+
 For our project, we were fortunate to have consistent files we imported into our VS code beginning with two XLSX documents and later, importing four CSV files into Postgres SQL. The consistency of the file types and data formats made it simple and repetitive to access all our data.
+
 -DATA TRANSFORMATION
 During ETL, there are times when complex logic is needed to ensure data sets are cleaned correctly. Ensuring correct syntax can be time consuming to achieve desired outputs.
 One of bigger challenges we had while transforming the data was changing the format of the original data set’s dates.  The original format was a UNIX timestamp consisting of the number of seconds elapsed from a prior date. We needed unique functions to ensure we converted these to the correct format. 
 
 2) What are the benefits of ETL?
+   
 -IMPROVED DATA QUALITY
 ETL processes include data cleansing and transformation steps that correct inaccuracies, remove duplicates, and standardize data formats. This enhances the overall quality and reliability of data.
+
 Throughout our data cleaning, we added and dropped columns, merged data frames, and altered data types that improve our outputs compared to the original sets.
+
 -EFFICIENCY
 The reduction of manual and repetitive tasks is a big focal point of many companies. Reasons include the elimination of human error, reduced operational costs, and more employee satisfaction by directing focus to more value-added work.
 Without ETL for this project, our group would have had to work through many tedious, repetitive tasks that would have consumed a lot of time. With our code, we were able to speed up and eliminate the inefficiencies resulting in a more streamlined process.
@@ -80,7 +85,9 @@ Cloud Environment: Cloud-based ETL tools like AWS Glue, Azure Data Factory, Goog
 
 Impact: Organizations can use cloud-native ETL tools that offer features like serverless computing, automated data transformation, and real-time processing. 
 
+
 REFERENCES
 
 Amazon Web Services. (2022). Scalability in the Cloud. Retrieved from https://aws.amazon.com/scalability/
 Microsoft Azure. (2022). Data Storage Options. Retrieved from <https://docs.microsoft.com/en-us/azure/storage/common/storage-int
+
