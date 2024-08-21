@@ -13,7 +13,9 @@ Creation of Category and Subcategory DataFrames
 1. Category DataFrame
 It is created by the extraction and transformation of data from an Excel file (crowdfunding.xlsx).
 Below is an image extract from the DataFrame
-![image](https://github.com/user-attachments/assets/0f3c07b7-6a48-4ce3-91c4-30abc1406c16)
+
+![image](https://github.com/user-attachments/assets/5da42603-17ad-48b7-ae09-818c814df34e)
+
 
 3. Subcategory DataFrame
 This DataFrame is created by the extraction and transformation of data from the Excel file. Below is an extract of the resulting DataFrame.
