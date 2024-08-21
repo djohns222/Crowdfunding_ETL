@@ -60,7 +60,7 @@ One of bigger challenges we had while transforming the data was changing the for
 
 2) What are the benefits of ETL?
    
--IMPROVED DATA QUALITY
+-IMPROVED DATA QUALITY - 
 ETL processes include data cleansing and transformation steps that correct inaccuracies, remove duplicates, and standardize data formats. This enhances the overall quality and reliability of data.
 
 Throughout our data cleaning, we added and dropped columns, merged data frames, and altered data types that improve our outputs compared to the original sets.
