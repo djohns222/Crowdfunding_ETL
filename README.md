@@ -1,7 +1,9 @@
-Project_2
+Project_2 - Drew Johnson & Titus Muchiri
+
 The project involves building an ETL data pipeline using Python, Pandas and Jupyter Notebooks.
 The raw data is provided in Excel format and is extracted and transformed then staged as CSV files.
-The CSV files are subsequently used to create and ERD and table schema before finally being uploaded into a Postgre database. 
+The CSV files are subsequently used to create and ERD and table schema before finally being uploaded into a Postgres database. 
+Within the resources folder, there are the two xlsx files we were originally provided in addition to the four csv's exported as required.
 
 This mini project has the following four subsections.
 1. Creation of two DataFrames: Category and Subcategory
