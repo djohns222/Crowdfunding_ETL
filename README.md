@@ -45,6 +45,7 @@ We used QuickDBD to design an entity relationship diagram(ERD) referencing each 
 
 
 
+
 Project 2 Discussion Questions
 1) What are the challenges associated with ETL?
    
