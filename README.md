@@ -29,7 +29,8 @@ After extraction and transformation of data from the Excel file, the following e
 We used Python dictionary methods as one way to extract and transform the data.
 Below ia an extract of the DataFrame.
 
-![image](https://github.com/user-attachments/assets/8a6ac053-3dac-4c9d-9c76-151d715b80d7)
+![image](https://github.com/user-attachments/assets/9b20a817-14f1-4b53-8efe-86a21ad68caf)
+
 
 
 
