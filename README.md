@@ -17,19 +17,19 @@ Below is an image extract from the DataFrame
 ![image](https://github.com/user-attachments/assets/5da42603-17ad-48b7-ae09-818c814df34e)
 
 
-3. Subcategory DataFrame
+Subcategory DataFrame
 This DataFrame is created by the extraction and transformation of data from the Excel file. Below is an extract of the resulting DataFrame.
 
 ![image](https://github.com/user-attachments/assets/980fda8f-35b8-4136-bccf-0a19b6bb440a)
 
 
 
-5. Campaign DataFrame
+2. Campaign DataFrame
 After extraction and transformation of data from the Excel file, the following extract shows the resulting DataFrame.
 ![image](https://github.com/user-attachments/assets/56d000b9-2a44-4881-a0c1-48aa8b62da9c)
 
 
-6. Contacts DataFrame
+3. Contacts DataFrame
 We used Python dictionary methods as one way to extract and transform the data.
 Below ia an extract of the DataFrame.
 
@@ -43,7 +43,7 @@ Below is a sample extract of the DataFrame
 ![image](https://github.com/user-attachments/assets/05b496bf-cc54-4e9b-a270-6c849ff297ae)
 
 
-Creation of the Crowdfunding Database
+4. Creation of the Crowdfunding Database
 We used QuickDBD to design an entity relationship diagram(ERD)
 ![image](https://github.com/user-attachments/assets/3ba919ab-ecc9-4393-add0-e1ee48a69818)
 
