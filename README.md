@@ -40,6 +40,6 @@ Below ia an extract of the DataFrame.
 
 
 4. Creation of the Crowdfunding Database - 
-We used QuickDBD to design an entity relationship diagram(ERD)
+We used QuickDBD to design an entity relationship diagram(ERD) referencing each of the four dataframes created above.
 ![image](https://github.com/user-attachments/assets/3ba919ab-ecc9-4393-add0-e1ee48a69818)
 
